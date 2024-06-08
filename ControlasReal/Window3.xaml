@@ -1,0 +1,35 @@
+﻿<Window x:Class="ControlasReal.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlasReal"
+        mc:Ignorable="d"
+        Title="Window3" Height="450" Width="500">
+
+    <Canvas Margin="0,0,0,0">
+        <Label Content="Nombre" Canvas.Left="171" Canvas.Top="27" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox x:Name="usernameText" Canvas.Left="154" Canvas.Top="53" Width="192" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" />
+
+        <Label Content="Primer apellido" Canvas.Left="171" Canvas.Top="73" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.182,2.338" />
+        <TextBox x:Name="FirstName" Canvas.Left="154" Canvas.Top="99" Width="192" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" />
+
+        <Label Content="Segundo apellido" Canvas.Left="164" Canvas.Top="124" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox x:Name="SecondSurname" Canvas.Left="154" Canvas.Top="150" Width="192" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" />
+
+        <Label Content="Email" Canvas.Left="164" Canvas.Top="170" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox x:Name="Email" Canvas.Left="154" Canvas.Top="195" Width="192" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" />
+
+        <Label Content="Número de teléfono" Canvas.Left="164" Canvas.Top="215" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox x:Name="PhoneNumber" Canvas.Left="154" Canvas.Top="240" Width="192" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" />
+
+        <Label Content="Contraseña" Canvas.Left="163" Canvas.Top="262" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="0.421,1.596" />
+        <PasswordBox x:Name="Password" Canvas.Left="154" Canvas.Top="288" Width="192" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" />
+
+        <Label Content="Permisos" Canvas.Left="163" Canvas.Top="308" RenderTransformOrigin="0.421,1.596" HorizontalAlignment="Left" VerticalAlignment="Top" />
+        <TextBox x:Name="Permisos" Canvas.Left="154" Canvas.Top="334" Width="192" Height="20" HorizontalAlignment="Left" VerticalAlignment="Top" />
+
+        <Button Content="Registrar" Canvas.Left="154" Canvas.Top="372" Width="192" HorizontalAlignment="Left" VerticalAlignment="Top" Height="21" Click="RegisterButton_Click" />
+
+    </Canvas>
+</Window>

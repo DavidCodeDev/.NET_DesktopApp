@@ -1,0 +1,50 @@
+﻿<Window x:Class="ControlasReal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlasReal"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="850" Closing="Window_Closing">
+    <Grid Margin="0,0,0,479" RenderTransformOrigin="0.493,0.726">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Visibility="Visible">
+            <ToolBar Margin="0,0,0,37">
+                <Menu Width="359" Height="37" Background="#FFEEF5FD">
+                    <MenuItem x:Name="ArchivosMenuItem" Header="Archivos" Click="Archivos_Click">
+
+                    </MenuItem>
+                    <MenuItem x:Name="UsuariosMenuItem" Header="Usuarios" Click="Usuarios_Click">
+                        <MenuItem Header="Consultar información" Click="ConsultarInformacion_Click"/>
+                        <MenuItem Header="Introducir nuevos usuarios" Click="IntroducirUsuarios_Click"/>
+
+                    </MenuItem>
+                    <MenuItem x:Name="TarjetasMenuItem" Header="Tarjetas" Click="Tarjetas_Click">
+
+                    </MenuItem>
+                    <MenuItem x:Name="ReservasMenuItem" Header="Reservas" Click="Reservas_Click">
+
+                    </MenuItem>
+
+                    <MenuItem x:Name="LoginMenuItem" Header="Login" Click="Login_Click">
+
+                    </MenuItem>
+                    <MenuItem x:Name="LogoutMenuItem" Header="Logout" Click="Logout_Click">
+                        
+                    </MenuItem>
+                </Menu>
+            </ToolBar>
+        </Grid>
+
+        <ContentControl x:Name="MainContent" Margin="0,37,0,-497" Grid.RowSpan="2">
+            <local:UserControl6 Margin="75,40,75,45"/>
+        </ContentControl>
+    </Grid>
+</Window>
+
+ 
