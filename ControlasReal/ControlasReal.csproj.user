@@ -2,62 +2,81 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
-    <ApplicationDefinition Update="App.xaml">
+    <Compile Update="AddCard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="App.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CardTrackerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DeleteCardWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserContainerSeeker.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CardManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ReservationsList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="FileControler.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WelcomeLayout.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditUserModalWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RegisterUserModalWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddCard.xaml">
       <SubType>Designer</SubType>
-    </ApplicationDefinition>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Update="UserControl1.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="UserControl2.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="UserControl3.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="UserControl4.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="UserControl5.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="UserControl6.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="Window2.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="Window3.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
+    </Page>
+    <Page Update="App.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DeleteCardWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="UserControl1.xaml">
+    <Page Update="CardTrackerWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="UserControl2.xaml">
+    <Page Update="UserContainerSeeker.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="UserControl3.xaml">
+    <Page Update="CardManagement.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="UserControl4.xaml">
+    <Page Update="ReservationsList.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="UserControl5.xaml">
+    <Page Update="FileControler.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="UserControl6.xaml">
+    <Page Update="LoginPanel.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Window2.xaml">
+    <Page Update="WelcomeLayout.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Window3.xaml">
+    <Page Update="EditUserModalWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RegisterUserModalWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

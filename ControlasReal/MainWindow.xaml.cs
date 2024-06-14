@@ -10,6 +10,7 @@ namespace ControlasReal
     public partial class MainWindow : Window
     {
         SerialPort serialPort = new SerialPort();
+        User user = new User();
         public bool UsuarioLogueado {  get; set; }
         private LogoutManagement logoutManagement;
         public MainWindow()
@@ -21,63 +22,81 @@ namespace ControlasReal
             ManagementDB ManagementDB = new ManagementDB();
             ManagementDB.OpenConnection();
             //conectarArduino();
-            UsuarioLogueado = false; //controlamos el acceso dando un valor false, cuando te registras de forma exitosa pasa a true
+            UsuarioLogueado = true; //controlamos el acceso dando un valor false, cuando te registras de forma exitosa pasa a true
             ActualizarVisibilidadMenu();   //cambia la view cuando el UsuarioLogueado = true;
-            logoutManagement = new LogoutManagement(this); //  Cierra sesion
+            logoutManagement = new LogoutManagement(this); //  Cierra sesión
 
         }          
         private void Archivos_Click(object sender, RoutedEventArgs e)
         { //4
             if (UsuarioLogueado)
             {
-                MainContent.Content = new UserControl4();
+                MainContent.Content = new FileControler();
             }
         }
         private void Tarjetas_Click(object sender, RoutedEventArgs e)
         {//2
-            if (UsuarioLogueado)
-            {
-                MainContent.Content = new UserControl2();
-            }
+        
         }
         private void Usuarios_Click(object sender, RoutedEventArgs e)
         {
             if (UsuarioLogueado)
             {
-                MainContent.Content = new UserControl1();
+                MainContent.Content = new UserContainerSeeker();
             }
         }
         private void Reservas_Click(object sender, RoutedEventArgs e)
         {//3
             if (UsuarioLogueado)
             {
-                MainContent.Content = new UserControl3();
+                MainContent.Content = new ReservationsList();
+            }
+        }
+        private void EliminarTarjeta_Click(object sender, RoutedEventArgs e) 
+        {
+            if (UsuarioLogueado)
+            {
+                DeleteCardWindow deleteCardWindow = new DeleteCardWindow();
+                deleteCardWindow.Show();
             }
         }
         private void Login_Click(object sender, RoutedEventArgs e)
         {//5       
-            UserControl5 userControl5 = new UserControl5(this);
+            LoginPanel userControl5 = new LoginPanel(this);
             MainContent.Content = userControl5;
         }
         private void Logout_Click(object sender, RoutedEventArgs e)
         {
             UsuarioLogueado = false;
             ActualizarVisibilidadMenu();
-            MainContent.Content = new UserControl6();
+            MainContent.Content = new WelcomeLayout();
         }
         private void ConsultarInformacion_Click(object sender, RoutedEventArgs e)
         { //1
             if (UsuarioLogueado)
             {
-                MainContent.Content = new UserControl1();
+                MainContent.Content = new UserContainerSeeker();
             }
         }
         private void IntroducirUsuarios_Click(object sender, RoutedEventArgs e)
         { //1
             if (UsuarioLogueado)
             {
-                Window3 window3 = new Window3();
+                RegisterUserModalWindow window3 = new RegisterUserModalWindow();
                 window3.ShowDialog();
+            }
+        }
+        private void CardManagement_Click (object sender, RoutedEventArgs e)
+        {
+
+        }
+        private void AdministradorTarjetas_Click(object sender, RoutedEventArgs e)
+        { //1
+            MessageBoxResult result = MessageBox.Show("Acerque tarjeta al lector. Mantener en el lector hasta acabar proceso.", "Confirmación", MessageBoxButton.OK);
+            if (UsuarioLogueado)
+            {
+                AddCard window4 = new AddCard(user);
+                window4.ShowDialog();
             }
         }
         public void conectarArduino()
@@ -110,6 +129,15 @@ namespace ControlasReal
 
             }
         }
+       private void RastreoTarjetaPerdida_Click(object sender, RoutedEventArgs e)
+        {
+            if (UsuarioLogueado)
+            {
+                MessageBox.Show("Coloca la tarjeta a rastrear en el lector");
+               CardTrackerWindow cardTrackerWindow = new CardTrackerWindow();
+                cardTrackerWindow.ShowDialog();
+            }
+        }
        private void controlRele_Click(object sender, RoutedEventArgs e)
         {
             conectarArduino(); // CAMBIAR EN EL IDE ARDUINO COMANDO PARA ACT Y DESACT LOS RELE  
@@ -119,7 +147,6 @@ namespace ControlasReal
         {
             ArchivosMenuItem.Visibility = UsuarioLogueado ? Visibility.Visible : Visibility.Collapsed;
             UsuariosMenuItem.Visibility = UsuarioLogueado ? Visibility.Visible : Visibility.Collapsed;
-            TarjetasMenuItem.Visibility = UsuarioLogueado ? Visibility.Visible : Visibility.Collapsed;
             ReservasMenuItem.Visibility = UsuarioLogueado ? Visibility.Visible : Visibility.Collapsed;
             LogoutMenuItem.Visibility = UsuarioLogueado ? Visibility.Visible : Visibility.Collapsed;
             LoginMenuItem.Visibility = UsuarioLogueado ? Visibility.Collapsed : Visibility.Visible;

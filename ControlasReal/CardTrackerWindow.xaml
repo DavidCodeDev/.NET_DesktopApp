@@ -1,0 +1,14 @@
+﻿<Window x:Class="ControlasReal.CardTrackerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ControlasReal"
+        mc:Ignorable="d"
+        Title="AddCard" Height="180" Width="400">
+    <Canvas>
+        <Button Content="Rastrear tarjeta" Click="Rastrear_Click" Canvas.Left="175" Canvas.Top="97" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Label Content="Nº de tarjeta:" Height="24" Canvas.Left="25" Canvas.Top="44" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <TextBox Width="250" Height="22" x:Name="UidReceived" Canvas.Left="110" Canvas.Top="45" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Canvas>
+</Window>

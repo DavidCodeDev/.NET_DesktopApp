@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\User\Desktop\Controlas\ControlasReal\ControlasReal\obj\x86\Debug\net5.0-windows\
+C:\Users\User\Desktop\ControlasReal\ControlasReal\obj\x86\Debug\net5.0-windows\
 ControlasReal
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\User\Desktop\Controlas\ControlasReal\ControlasReal\App.xaml
-9-92109704
+C:\Users\User\Desktop\ControlasReal\ControlasReal\App.xaml
+10-1900980322
 18905616804
-16-608805903
+18-1907460501
 2281987318752
-MainWindow.xaml;UserControl1.xaml;UserControl2.xaml;UserControl3.xaml;UserControl4.xaml;UserControl5.xaml;UserControl6.xaml;Window2.xaml;Window3.xaml;
+AddCard.xaml;CardManagement.xaml;EditUserModalWindow.xaml;FileControler.xaml;LoginPanel.xaml;MainWindow.xaml;RegisterUserModalWindow.xaml;ReservationsList.xaml;UserContainerSeeker.xaml;WelcomeLayout.xaml;
 
 False
 

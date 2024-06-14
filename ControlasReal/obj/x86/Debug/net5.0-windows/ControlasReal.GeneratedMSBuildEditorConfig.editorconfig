@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ControlasReal
-build_property.ProjectDir = C:\Users\User\Desktop\Controlas\ControlasReal\ControlasReal\
+build_property.ProjectDir = C:\Users\User\Desktop\ControlasReal\ControlasReal\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\User\Desktop\Controlas\ControlasReal\ControlasReal\obj\Debug\net5.0-windows\
+C:\Users\User\Desktop\COPIAS\COPIA-12-06-2024\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\ControlasReal\obj\Debug\net5.0-windows\
 ControlasReal
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\User\Desktop\Controlas\ControlasReal\ControlasReal\App.xaml
-9-92109704
+C:\Users\User\Desktop\COPIAS\COPIA-12-06-2024\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\ControlasReal\App.xaml
+121721935064
 18905616804
-15-1930242164
-2291782220073
-MainWindow.xaml;UserControl1.xaml;UserControl2.xaml;UserControl3.xaml;UserControl4.xaml;UserControl5.xaml;UserControl6.xaml;Window2.xaml;Window3.xaml;
+202130506265
+2281987318752
+AddCard.xaml;CardManagement.xaml;CardTrackerWindow.xaml;DeleteCardWindow.xaml;EditUserModalWindow.xaml;FileControler.xaml;LoginPanel.xaml;MainWindow.xaml;RegisterUserModalWindow.xaml;ReservationsList.xaml;UserContainerSeeker.xaml;WelcomeLayout.xaml;
 
 False
 

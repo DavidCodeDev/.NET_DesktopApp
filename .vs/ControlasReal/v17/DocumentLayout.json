@@ -1,120 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\copias\\copia-12-06-2024\\controlasreal -copia - tarjeta pre apertura modalwindow\\controlasreal\\deletecardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\deletecardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\copias\\copia-12-06-2024\\controlasreal -copia - tarjeta pre apertura modalwindow\\controlasreal\\deletecardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\deletecardwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\nfcreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\nfcreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\managementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\managementdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\logoutmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\logoutmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\.nuget\\packages\\fluentmigrator.runner.sqlserverce\\3.3.1\\runtimes\\win-x86\\sqlceca40.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\window3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\controlasreal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\controlasreal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\usercontrol4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\usercontrol4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\copias\\copia-12-06-2024\\controlasreal -copia - tarjeta pre apertura modalwindow\\controlasreal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\.nuget\\packages\\acr.userdialogs\\7.2.0.534\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\copias\\copia-12-06-2024\\controlasreal -copia - tarjeta pre apertura modalwindow\\controlasreal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\controlas\\controlasreal\\controlasreal\\controlasreal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\controlasreal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\copias\\copia-12-06-2024\\controlasreal -copia - tarjeta pre apertura modalwindow\\controlasreal\\addcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\addcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|c:\\users\\user\\desktop\\copias\\copia-12-06-2024\\controlasreal -copia - tarjeta pre apertura modalwindow\\controlasreal\\addcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{331E6CA4-9EC0-4F80-920B-D612036B1AAF}|ControlasReal\\ControlasReal.csproj|solutionrelative:controlasreal\\addcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -124,346 +34,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NFCReader.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\NFCReader.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\NFCReader.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\NFCReader.cs",
-              "RelativeToolTip": "ControlasReal\\NFCReader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T06:52:12.125Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserControl3.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl3.xaml.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl3.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl3.xaml.cs",
-              "RelativeToolTip": "ControlasReal\\UserControl3.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T11:11:14.333Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\Reservation.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\Reservation.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\Reservation.cs",
-              "RelativeToolTip": "ControlasReal\\Reservation.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T09:15:10.33Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\User.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\User.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\User.cs",
-              "RelativeToolTip": "ControlasReal\\User.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Title": "DeleteCardWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\DeleteCardWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ControlasReal\\DeleteCardWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\DeleteCardWindow.xaml.cs",
+              "RelativeToolTip": "ControlasReal\\DeleteCardWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCUAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T09:26:08.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserControl1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl1.xaml.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl1.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl1.xaml.cs",
-              "RelativeToolTip": "ControlasReal\\UserControl1.xaml.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAuwEYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T11:37:45.987Z",
+              "WhenOpened": "2024-06-13T11:49:31.338Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserControl2.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl2.xaml",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl2.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl2.xaml",
-              "RelativeToolTip": "ControlasReal\\UserControl2.xaml",
+              "DocumentIndex": 0,
+              "Title": "DeleteCardWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\DeleteCardWindow.xaml",
+              "RelativeDocumentMoniker": "ControlasReal\\DeleteCardWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\DeleteCardWindow.xaml",
+              "RelativeToolTip": "ControlasReal\\DeleteCardWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-16T06:23:17.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserControl1.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl1.xaml",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl1.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl1.xaml",
-              "RelativeToolTip": "ControlasReal\\UserControl1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T09:43:33.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UserControl4.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl4.xaml",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl4.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl4.xaml",
-              "RelativeToolTip": "ControlasReal\\UserControl4.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-20T07:29:05.028Z"
+              "WhenOpened": "2024-06-13T11:49:18.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ManagementDB.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\ManagementDB.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\ManagementDB.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\ManagementDB.cs",
-              "RelativeToolTip": "ControlasReal\\ManagementDB.cs",
-              "ViewState": "AQIAAGQAAAAAAAAAAAAcwAwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:51:59.232Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserControl3.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl3.xaml",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl3.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl3.xaml",
-              "RelativeToolTip": "ControlasReal\\UserControl3.xaml",
+              "Title": "AddCard.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\AddCard.xaml",
+              "RelativeDocumentMoniker": "ControlasReal\\AddCard.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\AddCard.xaml",
+              "RelativeToolTip": "ControlasReal\\AddCard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-20T07:23:47.136Z"
+              "WhenOpened": "2024-06-13T08:52:11.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserControl5.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl5.xaml",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl5.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl5.xaml",
-              "RelativeToolTip": "ControlasReal\\UserControl5.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T09:54:43.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserControl6.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl6.xaml",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl6.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl6.xaml",
-              "RelativeToolTip": "ControlasReal\\UserControl6.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-15T09:44:28.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UserControl2.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl2.xaml.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl2.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl2.xaml.cs",
-              "RelativeToolTip": "ControlasReal\\UserControl2.xaml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA8AAAAkAAAA",
+              "DocumentIndex": 5,
+              "Title": "AddCard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\AddCard.xaml.cs",
+              "RelativeDocumentMoniker": "ControlasReal\\AddCard.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\AddCard.xaml.cs",
+              "RelativeToolTip": "ControlasReal\\AddCard.xaml.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAwwBwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T07:44:10.211Z"
+              "WhenOpened": "2024-06-13T08:48:35.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "UserControl5.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl5.xaml.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl5.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl5.xaml.cs",
-              "RelativeToolTip": "ControlasReal\\UserControl5.xaml.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAUwCwAAAAIAAAA",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ControlasReal\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ControlasReal\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADsAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:54:46.929Z"
+              "WhenOpened": "2024-06-13T07:40:36.041Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ControlasReal\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\COPIAS\\COPIA-12-06-2024\\ControlasReal -COPIA - TARJETA PRE APERTURA MODALWINDOW\\ControlasReal\\MainWindow.xaml",
               "RelativeToolTip": "ControlasReal\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-10T06:55:24.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LogoutManagement.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\LogoutManagement.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\LogoutManagement.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\LogoutManagement.cs",
-              "RelativeToolTip": "ControlasReal\\LogoutManagement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T10:55:57.382Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\AssemblyInfo.cs",
-              "RelativeToolTip": "ControlasReal\\AssemblyInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:46:35.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Window3.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\Window3.xaml.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\Window3.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\Window3.xaml.cs",
-              "RelativeToolTip": "ControlasReal\\Window3.xaml.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T11:45:27.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "sqlceca40.dll",
-              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\fluentmigrator.runner.sqlserverce\\3.3.1\\runtimes\\win-x86\\sqlceca40.dll",
-              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\fluentmigrator.runner.sqlserverce\\3.3.1\\runtimes\\win-x86\\sqlceca40.dll",
-              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\fluentmigrator.runner.sqlserverce\\3.3.1\\runtimes\\win-x86\\sqlceca40.dll",
-              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\fluentmigrator.runner.sqlserverce\\3.3.1\\runtimes\\win-x86\\sqlceca40.dll",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
-              "WhenOpened": "2024-06-04T11:58:14.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\App.xaml.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\App.xaml.cs",
-              "RelativeToolTip": "ControlasReal\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T11:58:18.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ControlasReal.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\ControlasReal.csproj",
-              "RelativeDocumentMoniker": "ControlasReal\\ControlasReal.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\ControlasReal.csproj",
-              "RelativeToolTip": "ControlasReal\\ControlasReal.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-28T11:49:15.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Window2.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\Window2.xaml.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\Window2.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\Window2.xaml.cs",
-              "RelativeToolTip": "ControlasReal\\Window2.xaml.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAkwIUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T11:37:04.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserControl6.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl6.xaml.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl6.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl6.xaml.cs",
-              "RelativeToolTip": "ControlasReal\\UserControl6.xaml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T09:44:31.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Window2.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\Window2.xaml",
-              "RelativeDocumentMoniker": "ControlasReal\\Window2.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\Window2.xaml",
-              "RelativeToolTip": "ControlasReal\\Window2.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T11:31:04.839Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Window3.xaml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\Window3.xaml",
-              "RelativeDocumentMoniker": "ControlasReal\\Window3.xaml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\Window3.xaml",
-              "RelativeToolTip": "ControlasReal\\Window3.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-22T11:43:08.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UserControl4.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl4.xaml.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\UserControl4.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\UserControl4.xaml.cs",
-              "RelativeToolTip": "ControlasReal\\UserControl4.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T07:56:19.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ControlasReal\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\MainWindow.xaml.cs",
-              "RelativeToolTip": "ControlasReal\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAcwG8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T06:55:23.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ControlasReal",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\ControlasReal.csproj",
-              "RelativeDocumentMoniker": "ControlasReal\\ControlasReal.csproj",
-              "ToolTip": "C:\\Users\\User\\Desktop\\Controlas\\ControlasReal\\ControlasReal\\ControlasReal.csproj",
-              "RelativeToolTip": "ControlasReal\\ControlasReal.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-28T11:48:13.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "readme.txt",
-              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\acr.userdialogs\\7.2.0.534\\readme.txt",
-              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\acr.userdialogs\\7.2.0.534\\readme.txt",
-              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\acr.userdialogs\\7.2.0.534\\readme.txt",
-              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\acr.userdialogs\\7.2.0.534\\readme.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-29T07:48:05.928Z"
+              "WhenOpened": "2024-06-13T07:40:31.575Z"
             }
           ]
         }
